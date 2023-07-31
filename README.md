@@ -1,1 +1,2 @@
 # Stock-Price-Prediction
+Welcome to my Stock Price Prediction project! Using Python, I developed a predictive model that analyzes historical stock data to forecast future trends. This project showcases my data analysis, machine learning, and visualization skills to empower investors in making informed decisions. Feel free to explore the code and methodology to gain valuable insights into the world of stock market predictions.
